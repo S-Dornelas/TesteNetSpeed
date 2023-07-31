@@ -1,0 +1,15 @@
+C:\Users\sandr\source\repos\TesteNedSpeed_3\bin\Debug\net7.0\TesteNedSpeed_3.exe
+C:\Users\sandr\source\repos\TesteNedSpeed_3\bin\Debug\net7.0\TesteNedSpeed_3.deps.json
+C:\Users\sandr\source\repos\TesteNedSpeed_3\bin\Debug\net7.0\TesteNedSpeed_3.runtimeconfig.json
+C:\Users\sandr\source\repos\TesteNedSpeed_3\bin\Debug\net7.0\TesteNedSpeed_3.dll
+C:\Users\sandr\source\repos\TesteNedSpeed_3\bin\Debug\net7.0\TesteNedSpeed_3.pdb
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.AssemblyInfo.cs
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.dll
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\refint\TesteNedSpeed_3.dll
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.pdb
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\TesteNedSpeed_3.genruntimeconfig.cache
+C:\Users\sandr\source\repos\TesteNedSpeed_3\obj\Debug\net7.0\ref\TesteNedSpeed_3.dll

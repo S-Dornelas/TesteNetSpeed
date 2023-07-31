@@ -1,0 +1,15 @@
+C:\Users\sandr\source\repos\TesteNetSpeed_2\bin\Debug\net7.0\TesteNetSpeed_2.exe
+C:\Users\sandr\source\repos\TesteNetSpeed_2\bin\Debug\net7.0\TesteNetSpeed_2.deps.json
+C:\Users\sandr\source\repos\TesteNetSpeed_2\bin\Debug\net7.0\TesteNetSpeed_2.runtimeconfig.json
+C:\Users\sandr\source\repos\TesteNetSpeed_2\bin\Debug\net7.0\TesteNetSpeed_2.dll
+C:\Users\sandr\source\repos\TesteNetSpeed_2\bin\Debug\net7.0\TesteNetSpeed_2.pdb
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.AssemblyInfo.cs
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.dll
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\refint\TesteNetSpeed_2.dll
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.pdb
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\TesteNetSpeed_2.genruntimeconfig.cache
+C:\Users\sandr\source\repos\TesteNetSpeed_2\obj\Debug\net7.0\ref\TesteNetSpeed_2.dll
