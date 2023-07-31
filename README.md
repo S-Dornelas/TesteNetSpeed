@@ -1,6 +1,6 @@
 # TesteNetSpeed
 
-Repositório referente as atividades do teste de Lógica Netspeed. 
+Repositório referente as atividades do teste de Lógica Netspeed. Utilizei a linguagem C# para produzir todas as aplicações. 
 ________________________________
 #Pergunta 1 (TesteNetSpeed)
 
@@ -29,7 +29,7 @@ Escrever o número do aluno (código), suas 3 notas, a média calculada e uma me
 
 Encerrar a leitura de valores assim que for digitado 0 no código de aluno.
 ________________________________
-#Pergunta 4(TesteNetSpeed_3)
+#Pergunta 4 (TesteNetSpeed_3)
 
 Escreva um algoritmo em Portugol (ou na linguagem de sua preferência), para realizar o recálculo de Boletos.
 Ele deverá ler a data de vencimento original, a data de vencimento nova (data de pagamento) e valor do boleto, e deverá apresentar o valor do boleto recalculado, e o valor total dos juros do período.
